@@ -59,7 +59,8 @@ These features represent customer behavior across multiple purchase channels and
 
 ## 📈 Visual Output
 
-![Cluster Plot](visuals/customer_clusters.png)
+![image](https://github.com/user-attachments/assets/4c18b1d8-8081-4a66-8783-fbc03af6e99a)
+
 
 > PCA plot showing 3 customer segments and their centroids
 
